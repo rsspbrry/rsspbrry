@@ -595,7 +595,7 @@ nav .active a {
 }
 
 .cols-2 article {
-    width: 48%;
+    width: 49.7%;
     float: left;
     /*box-sizing: content-box|border-box|initial|inherit;*/
     box-sizing: border-box;
