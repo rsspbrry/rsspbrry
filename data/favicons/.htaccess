@@ -1,0 +1,6 @@
+Allow from all
+
+#Enable caching for a year
+<ifModule mod_headers.c>
+	Header set Cache-Control "max-age=29030400, public"
+</ifModule>

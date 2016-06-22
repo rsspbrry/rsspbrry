@@ -1,0 +1,15 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine on
+
+    RewriteBase /
+
+    # only if the requested file does not exists
+    RewriteCond %{REQUEST_FILENAME} !-f
+
+    # Store the current location in an environment variable CWD
+    RewriteCond $0#%{REQUEST_URI} ([^#]*)#(.*)\1$
+    RewriteRule ^.*$ - [E=CWD:%2]
+
+    # Just by prefixing the environment variable, we can safely rewrite anything now
+    RewriteRule ^([^/]*) %{ENV:CWD}index.php?database=$1 [QSA,L]
+</IfModule>
