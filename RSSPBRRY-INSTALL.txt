@@ -1,0 +1,17 @@
+How to Install RSSPBRRY RSS Feed Reader
+
+Pre-installation instructions
+
+Download the RSSPBRRY ZIP file here: https://github.com/rsspbrry/rsspbrry/
+Unzip rsspbrry-master.zip
+Rename directory rsspbrry-master to rsspbrry
+To install RSSPBRRY:
+
+You must have a web server with PHP installed (version 5.3.3 minimum) with the Sqlite and XML extensions
+Copy the directory rsspbrry where you want
+Check if the directory data is writeable
+With your browser go to http://yourpersonalserver/rsspbrry
+The login/password is admin/rsspbrry
+IMPORTANT: Be sure to change your password under Preferences.
+
+For more interesting and useful products, visit http://jasoncomely.com.
