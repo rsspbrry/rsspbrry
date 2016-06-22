@@ -4,8 +4,6 @@ RSSPBRRY is a free and open source RSS feed reader distributed under the **[AGPL
 
 See the **installation [instructions]**.
 
-For Kanboard specific issues, go to [upstream] from/or the wheatbin [fork] please.
-
 For more interesting and useful products, visit **[jasoncomely.com][jasoncomely]**.
 
 Regards,  
