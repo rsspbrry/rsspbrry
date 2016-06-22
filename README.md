@@ -13,8 +13,9 @@ Regards,
 
 
 [RSSPBRRY]: http://www.rsspbrry.com
-[Kanboard]: http://miniflux.net
+[Miniflux]: http://miniflux.net
 [jasoncomely]: http://jasoncomely.com
+[AGPL]: http://www.gnu.org/licenses/agpl-3.0.txt
 
 [logo-rsspbrry]: RSSPBRRY-logo-color.png
 [logo-jc]: JASONCOMELYconcepts-logo.png
