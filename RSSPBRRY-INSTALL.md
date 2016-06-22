@@ -1,4 +1,4 @@
-HOW TO INSTALL RSSPBRRY 
+How to Install RSSPBRRY RSS Feed Reader
 -------------------
 
 Pre-installation instructions
