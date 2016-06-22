@@ -1,4 +1,4 @@
-INSTALLING RSSPBRRY 
+HOW TO INSTALL RSSPBRRY 
 -------------------
 
 Pre-installation instructions
