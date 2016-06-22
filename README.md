@@ -18,7 +18,7 @@ Regards,
 [Kanboard]: http://miniflux.net
 [jasoncomely]: http://jasoncomely.com
 
-[logo-rsspbrry]: wheatbin-logo.png
+[logo-rsspbrry]: RSSPBRRY-logo-color.png
 [logo-jc]: JASONCOMELYconcepts-logo.png
 
 [instructions]: RSSPBRRY-INSTALL.md
