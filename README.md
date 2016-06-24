@@ -7,7 +7,7 @@ See the **installation [instructions]**.
 For more interesting and useful products, visit **[jasoncomely.com][jasoncomely]**.
 
 Regards,  
-[![Jason Comely's logo][logo-jc]][jasoncomely]
+[![Jason Comely's logo][concepts]][jasoncomely]
 
 
 
@@ -19,7 +19,7 @@ Regards,
 [Frédéric Guillot]: http://github.com/fguillot
 
 [logo-rsspbrry]: RSSPBRRY-logo.png
-[logo-jc]: JASONCOMELYconcepts.png
+[concepts]: JASONCOMELYconcepts.png
 
 [instructions]: RSSPBRRY-INSTALL.md
 [upstream]: http://github.com/fguillot/miniflux
