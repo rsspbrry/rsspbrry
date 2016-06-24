@@ -6,8 +6,6 @@ See the **installation [instructions]**.
 
 For more interesting and useful products, visit **[jasoncomely.com][jasoncomely]**.
 
-Regards,  
-[![Jason Comely's logo][concepts]][jasoncomely]
 
 
 
