@@ -19,7 +19,7 @@ Regards,
 [Frédéric Guillot]: http://github.com/fguillot
 
 [logo-rsspbrry]: RSSPBRRY-logo.png
-[logo-jc]: JASONCOMELYconcepts-logo.png
+[logo-jc]: JASONCOMELYconcepts.png
 
 [instructions]: RSSPBRRY-INSTALL.md
 [upstream]: http://github.com/fguillot/miniflux
