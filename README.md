@@ -7,7 +7,8 @@ See the **installation [instructions]**.
 For more interesting and useful products, visit **[jasoncomely.com][jasoncomely]**.
 
 Please enjoy,
-[![JASON COMELY concepts][concepts]][]
+
+[![JASON COMELY concepts][concepts]]
 
 
 
