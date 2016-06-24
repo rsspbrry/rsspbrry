@@ -8,7 +8,7 @@ For more interesting and useful products, visit **[jasoncomely.com][jasoncomely]
 
 Please enjoy,
 
-[![JASON COMELY concepts][concepts]]
+[concepts]
 
 
 
