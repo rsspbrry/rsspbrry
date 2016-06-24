@@ -6,9 +6,7 @@ See the **installation [instructions]**.
 
 For more interesting and useful products, visit **[jasoncomely.com][jasoncomely]**.
 
-Please enjoy,
-
-[![concepts][]
+Please enjoy.
 
 
 
