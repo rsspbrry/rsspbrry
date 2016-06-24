@@ -9,7 +9,7 @@ th,
 p,
 blockquote,
 body {
-    font-family: helvetica, sans-serif;
+    font-family: "Helvetica Neue", helvetica, sans-serif;
     margin: 0;
     padding: 0;
     font-size: 100%;
@@ -22,7 +22,7 @@ body {
     margin-bottom: 30px;
     max-width: 780px;
     color: #333;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-rendering: optimizeLegibility;
 }
 
@@ -44,7 +44,7 @@ a:hover {
 }
 
 h1, h2, h3 {
-    font-family: helvetica, sans-serif;
+    font-family: "Helvetica Neue", helvetica, sans-serif;
     font-weight: 700;
     color: #333;
 }
@@ -636,7 +636,7 @@ nav .active a {
 .items .preview {
     line-height: 1.5em;
     font-size: 100%;
-    font-family: helvetica, sans-serif;
+    font-family: "Helvetica Neue", helvetica, sans-serif;
     overflow: auto;
 }
 
@@ -677,7 +677,7 @@ nav .active a {
     padding-right: 5px;
     padding-bottom: 50px;
     color: #555;
-    font-family: Georgia, serif;
+    font-family: "Helvetica Neue", helvetica, arial, Georgia, serif;
     line-height: 1.6em;
     font-size: 1.1em;
 }
