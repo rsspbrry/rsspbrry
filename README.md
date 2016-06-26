@@ -16,7 +16,7 @@ Please enjoy.
 [AGPL v3 license]: http://www.gnu.org/licenses/agpl-3.0.txt
 [Frédéric Guillot]: http://github.com/fguillot
 
-[logo-rsspbrry]: RSSPBRRY-logo-303.png
+[logo-rsspbrry]: RSSPBRRY-logo.png
 [concepts]: JASONCOMELYconcepts.png
 
 [instructions]: RSSPBRRY-INSTALL.md
