@@ -1,6 +1,6 @@
 [![RSSPBRRY logo][logo-rsspbrry]][RSSPBRRY]
 
-RSSPBRRY is a free and open source RSS feed reader distributed under the **[AGPL v3 license]**. It's a software fork of **[Miniflux]** by super-coder **[Frédéric Guillot]**. More information on RSSPBRRY is forthcoming.
+RSSPBRRY is a free and open source RSS feed reader distributed under the [AGPL v3 license]. It's a software fork of **[Miniflux]** by super-coder **[Frédéric Guillot]**. More information on RSSPBRRY is forthcoming.
 
 See the **installation [instructions]**. 
 
