@@ -4,7 +4,7 @@ RSSPBRRY is a free and open source RSS feed reader distributed under the [AGPL v
 
 See the **installation [instructions]**. 
 
-For more interesting and useful products, visit **[jasoncomely.com][jasoncomely]**.
+For more interesting and useful products, visit **[JASON COMELY concepts][jasoncomely]**.
 
 Please enjoy.
 
