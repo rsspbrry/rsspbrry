@@ -6,9 +6,9 @@ RSSPBRRY is a free and open source RSS feed reader distributed under the [AGPL v
 
 See the **installation [instructions]**. 
 
-For more interesting and useful products, visit **[JASON COMELY concepts][jasoncomely]**.
+For more interesting and useful products, visit **[JASON COMELY concepts][jasoncomely]** and sign up for the **[newsletter][signup]**.
 
-Please enjoy.
+Enjoy.
 
 
 
@@ -21,6 +21,7 @@ Please enjoy.
 [logo-rsspbrry]: RSSPBRRY-logo.png
 [concepts]: JASONCOMELYconcepts.png
 [RSSPBRRY-screen]: RSSPBRRY-screenshot.jpg
+[signup]: http://rejectiontherapy.us2.list-manage.com/subscribe?u=bc7fdf29a4610b493fd5b2783&id=2f07782ec1
 
 [instructions]: RSSPBRRY-INSTALL.md
 [upstream]: http://github.com/fguillot/miniflux
